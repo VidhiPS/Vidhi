@@ -1,0 +1,1 @@
+print(" Milk\n Bread\n Toilet roll\n Chocolate\n Cookies\n Watermelon\n Cheese\n Apples\n Strawberries\n Chalk\n Flour\n Pasta\n Noodles\n Pasta sauce\n Chips\n Perfume\n Tissues\n Onions \n Tomatoes")
